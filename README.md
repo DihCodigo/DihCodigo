@@ -1,9 +1,12 @@
 ### Olá, me chamo César Diego e seja bem vindo ao meu GitHub 👋
-`Atualmente atuo como especialista em AdTech e Performance Web, com experiência em implementação e configuração de Header Bidding, Google Publisher Tag (GPT) e Google Tag Manager (GTM) para otimização de receitas publicitárias. Atuo na preparação de anúncios, solucionando problemas de veiculação e garantindo conformidade com as políticas do Google AdSense e Ad Manager.
 
-Além disso, desenvolvo templates de e-mail marketing, focando em compatibilidade e usabilidade. Sou responsável pela otimização de performance web, aplicando técnicas como Lazy Loading e Auto Refresh para melhorar tempos de carregamento e experiência do usuário.
+## "Atualmente aprimorando a estrutura de anúncios e performance web para maximizar resultados."
 
-Com forte habilidade analítica, elaboro relatórios e dashboards estratégicos para tomada de decisão, utilizando ferramentas de Analytics para monitoramento e melhoria contínua.`
+## "Focado na otimização de AdTech, implementação de Header Bidding e melhorias de desempenho digital."
+
+## "Desenvolvendo soluções para anúncios programáticos e e-mail marketing com foco em performance."
+
+## "Aprimorando estratégias de monetização e eficiência em anúncios digitais."
 
 ## Contato!
 
@@ -37,7 +40,7 @@ Gosto muito de desenvolver pequenos projetos, como sistemas de login, landing pa
 Para front-end costumo utilizar React, HTML, CSS, JavaScript e além de alguns framework como bootstrap entre outros, e para back-end, costumo utilizar bastante o PHP e Java onde são minhas principais tecnologias.`
 
 ## Atualmente...
-`sou professor de TI na NovoTec, responsável por ensinar algumas tecnologias como java, javascript, php, html, css entre outras, e também como professor, sou um jovem aprendiz no mundo da tecnologia, sempre aprendendo e para isso, iniciei meus estudos com a Digital House que, esta sendo uma experiência incrível.`
+`Atualmente atuo como especialista em AdTech e Performance Web, com experiência em implementação e configuração de Header Bidding, Google Publisher Tag (GPT) e Google Tag Manager (GTM) para otimização de receitas publicitárias. Atuo na preparação de anúncios, solucionando problemas de veiculação e garantindo conformidade com as políticas do Google AdSense e Ad Manager.`
 
 ## E-mail para contato
 
