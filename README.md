@@ -1,12 +1,12 @@
 ## Olá, me chamo César Diego e seja bem vindo ao meu GitHub 👋
 
-### "🚀 Atualmente aprimorando a estrutura de anúncios e performance web para maximizar resultados."
+#### "🚀 Atualmente aprimorando a estrutura de anúncios e performance web para maximizar resultados."
 
-### "🎯 Focado na otimização de AdTech, implementação de Header Bidding e melhorias de desempenho digital."
+#### "🎯 Focado na otimização de AdTech, implementação de Header Bidding e melhorias de desempenho digital."
 
-### "📩 Desenvolvendo soluções para anúncios programáticos e e-mail marketing com foco em performance."
+#### "📩 Desenvolvendo soluções para anúncios programáticos e e-mail marketing com foco em performance."
 
-### "💰 Aprimorando estratégias de monetização e eficiência em anúncios digitais."
+#### "💰 Aprimorando estratégias de monetização e eficiência em anúncios digitais."
 
 ## Contato!
 
@@ -35,12 +35,10 @@
 
 ## Melhor dizendo, eu...
 
-`sou um programador produtivo, sociável e de mente aberta.
-Gosto muito de desenvolver pequenos projetos, como sistemas de login, landing page, formulários de cadastros entre outros projetos.
-Para front-end costumo utilizar React, HTML, CSS, JavaScript e além de alguns framework como bootstrap entre outros, e para back-end, costumo utilizar bastante o PHP e Java onde são minhas principais tecnologias.`
+`👨‍💻 Programador produtivo, sociável e de mente aberta, especializado em 🚀 AdTech e Performance Web. Experiente no desenvolvimento de sistemas web, otimização de anúncios digitais e implementação de 🎯 Header Bidding, GPT e GTM. No front-end, utilizo ⚡ React, HTML, CSS e JavaScript, com frameworks como 🎨 Bootstrap para interfaces otimizadas. No back-end, minhas principais tecnologias são 🛠️ PHP e Java, garantindo aplicações escaláveis e eficientes. Apaixonado por desenvolver projetos como 🔐 sistemas de login, 📄 landing pages e 📝 formulários, sempre focado em inovação, usabilidade e alto desempenho.`
 
 ## Atualmente...
-`Atualmente atuo como especialista em AdTech e Performance Web, com experiência em implementação e configuração de Header Bidding, Google Publisher Tag (GPT) e Google Tag Manager (GTM) para otimização de receitas publicitárias. Atuo na preparação de anúncios, solucionando problemas de veiculação e garantindo conformidade com as políticas do Google AdSense e Ad Manager.`
+`🚀🔥 Atualmente atuo como especialista em AdTech e Performance Web, com experiência em implementação e configuração de Header Bidding, Google Publisher Tag (GPT) e Google Tag Manager (GTM) para otimização de receitas publicitárias. Atuo na preparação de anúncios, solucionando problemas de veiculação e garantindo conformidade com as políticas do Google AdSense e Ad Manager.`
 
 ## E-mail para contato
 
