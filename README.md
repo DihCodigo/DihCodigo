@@ -1,12 +1,12 @@
-### Olá, me chamo César Diego e seja bem vindo ao meu GitHub 👋
+## Olá, me chamo César Diego e seja bem vindo ao meu GitHub 👋
 
-## "Atualmente aprimorando a estrutura de anúncios e performance web para maximizar resultados."
+### "🚀 Atualmente aprimorando a estrutura de anúncios e performance web para maximizar resultados."
 
-## "Focado na otimização de AdTech, implementação de Header Bidding e melhorias de desempenho digital."
+### "🎯 Focado na otimização de AdTech, implementação de Header Bidding e melhorias de desempenho digital."
 
-## "Desenvolvendo soluções para anúncios programáticos e e-mail marketing com foco em performance."
+### "📩 Desenvolvendo soluções para anúncios programáticos e e-mail marketing com foco em performance."
 
-## "Aprimorando estratégias de monetização e eficiência em anúncios digitais."
+### "💰 Aprimorando estratégias de monetização e eficiência em anúncios digitais."
 
 ## Contato!
 
