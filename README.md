@@ -1,4 +1,9 @@
 ### Olá, me chamo César Diego e seja bem vindo ao meu GitHub 👋
+`Atualmente atuo como especialista em AdTech e Performance Web, com experiência em implementação e configuração de Header Bidding, Google Publisher Tag (GPT) e Google Tag Manager (GTM) para otimização de receitas publicitárias. Atuo na preparação de anúncios, solucionando problemas de veiculação e garantindo conformidade com as políticas do Google AdSense e Ad Manager.
+
+Além disso, desenvolvo templates de e-mail marketing, focando em compatibilidade e usabilidade. Sou responsável pela otimização de performance web, aplicando técnicas como Lazy Loading e Auto Refresh para melhorar tempos de carregamento e experiência do usuário.
+
+Com forte habilidade analítica, elaboro relatórios e dashboards estratégicos para tomada de decisão, utilizando ferramentas de Analytics para monitoramento e melhoria contínua.`
 
 ## Contato!
 
